@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
 <head>
@@ -96,7 +96,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="profile photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="https://drive.google.com/file/d/1ydHngSkWWOoneFp5Y8BGGZndICl7vbFa/view?usp=drivesdk" alt="Your Profile Picture" class="profile-picture">
             <h1>VARSHINI G</h1>
             <p>Am Computer Science Student</p>
         </div>
@@ -116,7 +116,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>Motivated Computer Science student with expertise in <B>Python</B> and <B>JAVA</B> development, including <B>HTML</B>, and <B>C++</B>. Looking for an opportunity to develop user-friendly, scalable web applications and enhance my coding skills.</p>
+            <p>Motivated Computer Science student with expertise in <B>Python</B> and <B>JAVA</B> development, including <B>HTML</B>, and <B>CSS</B>. Looking for an opportunity to develop user-friendly, scalable web applications and enhance my coding skills.</p>
 
         </div>
     </section>
@@ -137,7 +137,7 @@
                 <li>HTML</li>
                 <li>SQL</li>
                 <li>CSS</li>
-                <li>Python</li>
+                <li>PYTHON</li>
                 <li>JAVA</li>
                 <li>C++</li>
             </ul>
