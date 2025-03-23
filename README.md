@@ -96,7 +96,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="profile photo.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="https://drive.google.com/file/d/1dZtuAnTnUmbqOdvHIumuS9YyY-7bCcWP/view?usp=drivesdk" alt="Your Profile Picture" class="profile-picture">
             <h1>VARSHINI</h1>
             <p>Am Computer Science Student</p>
         </div>
@@ -159,7 +159,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://drive.google.com/file/d/1xreBvB98rowlfTwaiuX_BTqkj0zIGgNl/view?usp=drivesdk" target="_blank" class="download-button">Download CV</a>
+            <a href="https://drive.google.com/file/d/1xreBvB98rowlfTwaiuX_BTqkj0zIGgNl/view?usp=drivesdk"target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
 
